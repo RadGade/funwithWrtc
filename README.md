@@ -1,2 +1,0 @@
-# funwithWrtc
-Created with CodeSandbox
